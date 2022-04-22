@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou Matheus Malta
 
 - 🔭 Procurando um trabalho
-- 🌱 Aprendendo desenvolvimento Full Stack na <a href="hhtps://www.dio.me">Dio</a>
+<p>- 🌱 Aprendendo desenvolvimento Full Stack na <a href="hhtps://www.dio.me">Dio</a></p>
 - ✉️ Contate-me:
 <div> <a href = "mailto:matheusmalta.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
 
