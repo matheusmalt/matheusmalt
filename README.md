@@ -1,11 +1,11 @@
 ## Olá Mundo! Eu sou Matheus Malta
 
 - 🔭 Procurando um trabalho
-<p>- 🌱 Aprendendo desenvolvimento Full Stack na <a href="hhtps://www.dio.me">Dio</a></p>
+- 🌱 Aprendendo desenvolvimento Full Stack na Dio.me
 - ✉️ Contate-me:
 <div> <a href = "mailto:matheusmalta.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
 
-www.linkedin.com/in/matheus-malta-contato
+<div> <a href="www.linkedin.com/in/matheus-malta-contato"><img src="https://cdn.freelogovectors.net/svg05/linkedin-logo.svg"></a></div>
 
 <div align="center">
   <a href="https://github.com/matheusmalt">
