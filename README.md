@@ -16,7 +16,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" align="center" alt="Python" height="50" width="60">
-</div>
-<div style="display: inline_block"><br>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" align="center" alt="Python" height="50" width="60">
+  
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" align="center" alt="HTML5" height="50" width="60">
 </div>
