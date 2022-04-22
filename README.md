@@ -4,7 +4,7 @@
 - 🌱 Aprendendo desenvolvimento Full Stack na Dio.me
 - Faço graduação em Sistemas de Informação e Engenharia Elétrica
 - ✉️ Contate-me:
-<div> <a href="mailto:matheusmalta.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
+<div> <a href="mailto:matheusmalta.trabalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
 
 <div> <a href="https://www.linkedin.com/in/matheus-malta-contato"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="50" height="50"></a></div>
 
