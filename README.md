@@ -5,7 +5,7 @@
 - ✉️ Contate-me:
 <div> <a href = "mailto:matheusmalta.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
 
-<div> <a href="www.linkedin.com/in/matheus-malta-contato"><img src="https://cdn.freelogovectors.net/svg05/linkedin-logo.svg"></a></div>
+<div> <a href="www.linkedin.com/in/matheus-malta-contato"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png"></a></div>
 
 <div align="center">
   <a href="https://github.com/matheusmalt">
